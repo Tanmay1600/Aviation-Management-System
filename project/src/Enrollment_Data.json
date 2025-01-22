@@ -1,0 +1,400 @@
+[{
+  "airport_temp":747,
+  "airline_temp":719,
+  "Boarding_date":"07/02/2023","Ticket_Price":6199},
+{
+  "airport_temp":149,
+  "airline_temp":458,
+  "Boarding_date":"12/03/2023","Ticket_Price":9962},
+{
+  "airport_temp":358,
+  "airline_temp":431,
+  "Boarding_date":"07/08/2023","Ticket_Price":5877},
+{
+  "airport_temp":719,
+  "airline_temp":99,
+  "Boarding_date":"04/06/2023","Ticket_Price":9012},
+{
+  "airport_temp":589,
+  "airline_temp":185,
+  "Boarding_date":"12/21/2023","Ticket_Price":6374},
+{
+  "airport_temp":979,
+  "airline_temp":160,
+  "Boarding_date":"04/15/2023","Ticket_Price":9569},
+{
+  "airport_temp":367,
+  "airline_temp":726,
+  "Boarding_date":"09/26/2023","Ticket_Price":9367},
+{
+  "airport_temp":33,
+  "airline_temp":618,
+  "Boarding_date":"06/03/2023","Ticket_Price":9579},
+{
+  "airport_temp":477,
+  "airline_temp":123,
+  "Boarding_date":"03/30/2023","Ticket_Price":6198},
+{
+  "airport_temp":992,
+  "airline_temp":788,
+  "Boarding_date":"08/05/2023","Ticket_Price":5322},
+{
+  "airport_temp":348,
+  "airline_temp":511,
+  "Boarding_date":"02/15/2023","Ticket_Price":5333},
+{
+  "airport_temp":47,
+  "airline_temp":796,
+  "Boarding_date":"10/18/2023","Ticket_Price":5446},
+{
+  "airport_temp":122,
+  "airline_temp":907,
+  "Boarding_date":"10/26/2023","Ticket_Price":7233},
+{
+  "airport_temp":462,
+  "airline_temp":754,
+  "Boarding_date":"06/28/2023","Ticket_Price":5802},
+{
+  "airport_temp":935,
+  "airline_temp":670,
+  "Boarding_date":"10/10/2023","Ticket_Price":8160},
+{
+  "airport_temp":618,
+  "airline_temp":791,
+  "Boarding_date":"09/14/2023","Ticket_Price":9547},
+{
+  "airport_temp":325,
+  "airline_temp":42,
+  "Boarding_date":"11/30/2023","Ticket_Price":5733},
+{
+  "airport_temp":967,
+  "airline_temp":202,
+  "Boarding_date":"09/04/2023","Ticket_Price":5526},
+{
+  "airport_temp":144,
+  "airline_temp":656,
+  "Boarding_date":"04/17/2023","Ticket_Price":9167},
+{
+  "airport_temp":906,
+  "airline_temp":260,
+  "Boarding_date":"11/12/2023","Ticket_Price":7007},
+{
+  "airport_temp":208,
+  "airline_temp":252,
+  "Boarding_date":"11/01/2023","Ticket_Price":5193},
+{
+  "airport_temp":212,
+  "airline_temp":303,
+  "Boarding_date":"02/15/2023","Ticket_Price":8113},
+{
+  "airport_temp":417,
+  "airline_temp":214,
+  "Boarding_date":"04/17/2023","Ticket_Price":9205},
+{
+  "airport_temp":846,
+  "airline_temp":771,
+  "Boarding_date":"12/04/2023","Ticket_Price":8402},
+{
+  "airport_temp":851,
+  "airline_temp":133,
+  "Boarding_date":"03/20/2023","Ticket_Price":8725},
+{
+  "airport_temp":495,
+  "airline_temp":650,
+  "Boarding_date":"01/30/2023","Ticket_Price":6094},
+{
+  "airport_temp":369,
+  "airline_temp":992,
+  "Boarding_date":"04/27/2023","Ticket_Price":9316},
+{
+  "airport_temp":500,
+  "airline_temp":657,
+  "Boarding_date":"10/10/2023","Ticket_Price":6541},
+{
+  "airport_temp":11,
+  "airline_temp":666,
+  "Boarding_date":"09/02/2023","Ticket_Price":5648},
+{
+  "airport_temp":20,
+  "airline_temp":416,
+  "Boarding_date":"02/18/2023","Ticket_Price":8984},
+{
+  "airport_temp":383,
+  "airline_temp":384,
+  "Boarding_date":"07/08/2023","Ticket_Price":5356},
+{
+  "airport_temp":679,
+  "airline_temp":187,
+  "Boarding_date":"07/30/2023","Ticket_Price":7347},
+{
+  "airport_temp":549,
+  "airline_temp":432,
+  "Boarding_date":"12/01/2023","Ticket_Price":8875},
+{
+  "airport_temp":374,
+  "airline_temp":218,
+  "Boarding_date":"02/12/2023","Ticket_Price":9776},
+{
+  "airport_temp":605,
+  "airline_temp":949,
+  "Boarding_date":"10/26/2023","Ticket_Price":6999},
+{
+  "airport_temp":580,
+  "airline_temp":971,
+  "Boarding_date":"06/19/2023","Ticket_Price":6063},
+{
+  "airport_temp":527,
+  "airline_temp":946,
+  "Boarding_date":"05/01/2023","Ticket_Price":8220},
+{
+  "airport_temp":940,
+  "airline_temp":703,
+  "Boarding_date":"08/14/2023","Ticket_Price":6092},
+{
+  "airport_temp":723,
+  "airline_temp":372,
+  "Boarding_date":"10/08/2023","Ticket_Price":7195},
+{
+  "airport_temp":136,
+  "airline_temp":206,
+  "Boarding_date":"11/06/2023","Ticket_Price":7626},
+{
+  "airport_temp":302,
+  "airline_temp":381,
+  "Boarding_date":"01/03/2023","Ticket_Price":6336},
+{
+  "airport_temp":971,
+  "airline_temp":313,
+  "Boarding_date":"10/20/2023","Ticket_Price":7404},
+{
+  "airport_temp":822,
+  "airline_temp":980,
+  "Boarding_date":"01/18/2023","Ticket_Price":7592},
+{
+  "airport_temp":393,
+  "airline_temp":142,
+  "Boarding_date":"12/27/2023","Ticket_Price":8395},
+{
+  "airport_temp":316,
+  "airline_temp":84,
+  "Boarding_date":"06/23/2023","Ticket_Price":7193},
+{
+  "airport_temp":555,
+  "airline_temp":230,
+  "Boarding_date":"07/18/2023","Ticket_Price":5701},
+{
+  "airport_temp":23,
+  "airline_temp":821,
+  "Boarding_date":"10/21/2023","Ticket_Price":6872},
+{
+  "airport_temp":787,
+  "airline_temp":110,
+  "Boarding_date":"05/08/2023","Ticket_Price":6631},
+{
+  "airport_temp":957,
+  "airline_temp":156,
+  "Boarding_date":"03/27/2023","Ticket_Price":9406},
+{
+  "airport_temp":47,
+  "airline_temp":654,
+  "Boarding_date":"01/14/2023","Ticket_Price":9313},
+{
+  "airport_temp":644,
+  "airline_temp":199,
+  "Boarding_date":"08/27/2023","Ticket_Price":6756},
+{
+  "airport_temp":787,
+  "airline_temp":674,
+  "Boarding_date":"02/06/2023","Ticket_Price":8510},
+{
+  "airport_temp":935,
+  "airline_temp":152,
+  "Boarding_date":"07/18/2023","Ticket_Price":7901},
+{
+  "airport_temp":868,
+  "airline_temp":208,
+  "Boarding_date":"06/07/2023","Ticket_Price":6239},
+{
+  "airport_temp":981,
+  "airline_temp":667,
+  "Boarding_date":"02/21/2023","Ticket_Price":8833},
+{
+  "airport_temp":608,
+  "airline_temp":345,
+  "Boarding_date":"07/20/2023","Ticket_Price":8846},
+{
+  "airport_temp":777,
+  "airline_temp":915,
+  "Boarding_date":"06/17/2023","Ticket_Price":5454},
+{
+  "airport_temp":687,
+  "airline_temp":274,
+  "Boarding_date":"10/29/2023","Ticket_Price":7600},
+{
+  "airport_temp":316,
+  "airline_temp":215,
+  "Boarding_date":"09/25/2023","Ticket_Price":6881},
+{
+  "airport_temp":403,
+  "airline_temp":217,
+  "Boarding_date":"08/17/2023","Ticket_Price":7468},
+{
+  "airport_temp":602,
+  "airline_temp":47,
+  "Boarding_date":"03/08/2023","Ticket_Price":5770},
+{
+  "airport_temp":268,
+  "airline_temp":407,
+  "Boarding_date":"08/03/2023","Ticket_Price":5787},
+{
+  "airport_temp":413,
+  "airline_temp":950,
+  "Boarding_date":"05/15/2023","Ticket_Price":8695},
+{
+  "airport_temp":835,
+  "airline_temp":946,
+  "Boarding_date":"08/28/2023","Ticket_Price":7387},
+{
+  "airport_temp":808,
+  "airline_temp":362,
+  "Boarding_date":"11/02/2023","Ticket_Price":8816},
+{
+  "airport_temp":658,
+  "airline_temp":770,
+  "Boarding_date":"12/23/2023","Ticket_Price":6358},
+{
+  "airport_temp":281,
+  "airline_temp":625,
+  "Boarding_date":"03/13/2023","Ticket_Price":5863},
+{
+  "airport_temp":99,
+  "airline_temp":96,
+  "Boarding_date":"12/14/2023","Ticket_Price":6325},
+{
+  "airport_temp":921,
+  "airline_temp":112,
+  "Boarding_date":"10/19/2023","Ticket_Price":6567},
+{
+  "airport_temp":151,
+  "airline_temp":229,
+  "Boarding_date":"08/04/2023","Ticket_Price":7876},
+{
+  "airport_temp":500,
+  "airline_temp":168,
+  "Boarding_date":"05/31/2023","Ticket_Price":8273},
+{
+  "airport_temp":892,
+  "airline_temp":398,
+  "Boarding_date":"04/02/2023","Ticket_Price":8909},
+{
+  "airport_temp":946,
+  "airline_temp":714,
+  "Boarding_date":"04/19/2023","Ticket_Price":6615},
+{
+  "airport_temp":933,
+  "airline_temp":742,
+  "Boarding_date":"03/23/2023","Ticket_Price":9962},
+{
+  "airport_temp":962,
+  "airline_temp":428,
+  "Boarding_date":"05/23/2023","Ticket_Price":5406},
+{
+  "airport_temp":323,
+  "airline_temp":315,
+  "Boarding_date":"07/27/2023","Ticket_Price":5502},
+{
+  "airport_temp":67,
+  "airline_temp":559,
+  "Boarding_date":"10/26/2023","Ticket_Price":8190},
+{
+  "airport_temp":964,
+  "airline_temp":616,
+  "Boarding_date":"02/10/2023","Ticket_Price":7019},
+{
+  "airport_temp":314,
+  "airline_temp":558,
+  "Boarding_date":"07/20/2023","Ticket_Price":5997},
+{
+  "airport_temp":375,
+  "airline_temp":924,
+  "Boarding_date":"04/19/2023","Ticket_Price":7912},
+{
+  "airport_temp":56,
+  "airline_temp":827,
+  "Boarding_date":"02/21/2023","Ticket_Price":8391},
+{
+  "airport_temp":829,
+  "airline_temp":507,
+  "Boarding_date":"12/11/2023","Ticket_Price":6547},
+{
+  "airport_temp":903,
+  "airline_temp":975,
+  "Boarding_date":"07/31/2023","Ticket_Price":9541},
+{
+  "airport_temp":359,
+  "airline_temp":952,
+  "Boarding_date":"08/02/2023","Ticket_Price":9056},
+{
+  "airport_temp":337,
+  "airline_temp":562,
+  "Boarding_date":"10/10/2023","Ticket_Price":8664},
+{
+  "airport_temp":26,
+  "airline_temp":235,
+  "Boarding_date":"08/06/2023","Ticket_Price":9953},
+{
+  "airport_temp":187,
+  "airline_temp":620,
+  "Boarding_date":"08/05/2023","Ticket_Price":8037},
+{
+  "airport_temp":201,
+  "airline_temp":515,
+  "Boarding_date":"07/24/2023","Ticket_Price":8399},
+{
+  "airport_temp":867,
+  "airline_temp":239,
+  "Boarding_date":"05/01/2023","Ticket_Price":7727},
+{
+  "airport_temp":225,
+  "airline_temp":543,
+  "Boarding_date":"04/26/2023","Ticket_Price":8136},
+{
+  "airport_temp":928,
+  "airline_temp":884,
+  "Boarding_date":"01/17/2023","Ticket_Price":5589},
+{
+  "airport_temp":109,
+  "airline_temp":862,
+  "Boarding_date":"08/11/2023","Ticket_Price":7295},
+{
+  "airport_temp":165,
+  "airline_temp":33,
+  "Boarding_date":"12/17/2023","Ticket_Price":8071},
+{
+  "airport_temp":124,
+  "airline_temp":660,
+  "Boarding_date":"06/22/2023","Ticket_Price":6550},
+{
+  "airport_temp":474,
+  "airline_temp":39,
+  "Boarding_date":"07/14/2023","Ticket_Price":7300},
+{
+  "airport_temp":287,
+  "airline_temp":456,
+  "Boarding_date":"06/26/2023","Ticket_Price":5463},
+{
+  "airport_temp":972,
+  "airline_temp":872,
+  "Boarding_date":"09/27/2023","Ticket_Price":9613},
+{
+  "airport_temp":847,
+  "airline_temp":649,
+  "Boarding_date":"08/14/2023","Ticket_Price":8447},
+{
+  "airport_temp":159,
+  "airline_temp":836,
+  "Boarding_date":"03/10/2023","Ticket_Price":6083},
+{
+  "airport_temp":582,
+  "airline_temp":603,
+  "Boarding_date":"06/15/2023","Ticket_Price":8127}]
